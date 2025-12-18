@@ -4,7 +4,7 @@
 |------|----------------|
 | Arrays | 4 |
 | Strings | 0 |
-| Linked List | 1 |
+| Linked List | 2 |
 | Trees | 0 |
 | Graphs | 0 |
 | DP | 0 |
