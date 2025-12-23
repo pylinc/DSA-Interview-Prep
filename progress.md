@@ -2,7 +2,7 @@
 
 | Topic | Problems Solved |
 |------|----------------|
-| Arrays | 10 |
+| Arrays | 11 |
 | Strings | 0 |
 | Linked List | 2 |
 | Trees | 0 |
