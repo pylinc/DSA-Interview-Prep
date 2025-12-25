@@ -31,6 +31,7 @@ class solution{
         }
         if(idx==-1){
             reverse(arr.begin(),arr.end());
+            return;
         }
 
         for(int i = n-1;i>=0;i--){
